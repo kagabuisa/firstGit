@@ -48,4 +48,5 @@ var b = 25
 alert(a/b);
 
 var hullo = 1
+alert(hull0);
 
