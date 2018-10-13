@@ -21,10 +21,10 @@ let products = [
   ];
 
   for (let i = 0; i < products.length; i++) {
-    console.log(products[i]);
+    console.log(products.name[i]);
   }
 
-  alert(products.[1]);
+  alert(products.name[1]);
 //     var data = [1,2,3,4,5];
 //     var sumexe = 0;
 //     data.forEach(function(value) {
@@ -50,4 +50,3 @@ alert(a/b);
 
 var hullo = 1
 alert(hull0);
-
