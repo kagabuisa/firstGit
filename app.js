@@ -51,5 +51,5 @@ alert(a/b);
 var hullo = 1
 alert(hullo);
 
-var gitApproach = "Add Commit Push"
+var gitApproach = "Add Commit Push Pull"
 alert(gitApproach);
