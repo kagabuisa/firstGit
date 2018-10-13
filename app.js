@@ -49,7 +49,7 @@ var b = 25
 alert(a/b);
 
 var hullo = 1
-alert(hull0);
+alert(hullo);
 
 var gitApproach = "Add Commit Push"
 alert(gitApproach);
